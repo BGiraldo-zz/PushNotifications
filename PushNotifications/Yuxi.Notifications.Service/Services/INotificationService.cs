@@ -7,5 +7,7 @@ namespace Yuxi.Notifications.Service.Services
     public interface INotificationService
     {
 
+        void SendNotification(String message);
+
     }
 }
