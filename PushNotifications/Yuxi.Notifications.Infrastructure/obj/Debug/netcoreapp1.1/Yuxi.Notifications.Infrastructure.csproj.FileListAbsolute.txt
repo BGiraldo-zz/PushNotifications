@@ -1,0 +1,14 @@
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.deps.json
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.dll
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.pdb
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.AssemblyInfo.cs
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.dll
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.pdb
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.deps.json
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.dll
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.pdb
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.AssemblyInfo.cs
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.dll
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.Infrastructure\obj\Debug\netcoreapp1.1\Yuxi.Notifications.Infrastructure.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuxi.Notifications.API", "Yuxi.Notifications.API\Yuxi.Notifications.API.csproj", "{B3DE9F26-3CA9-4C47-B280-A0CBE9B8E701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuxi.Notifications.Service", "Yuxi.Notifications.Service\Yuxi.Notifications.Service.csproj", "{65B31204-0B10-4EE9-9385-54AE93AE5DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuxi.Notifications.Infrastructure", "Yuxi.Notifications.Infrastructure\Yuxi.Notifications.Infrastructure.csproj", "{250A8953-E95D-4CCA-92DC-F18B1F87E2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DE9F26-3CA9-4C47-B280-A0CBE9B8E701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DE9F26-3CA9-4C47-B280-A0CBE9B8E701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DE9F26-3CA9-4C47-B280-A0CBE9B8E701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DE9F26-3CA9-4C47-B280-A0CBE9B8E701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B31204-0B10-4EE9-9385-54AE93AE5DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B31204-0B10-4EE9-9385-54AE93AE5DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B31204-0B10-4EE9-9385-54AE93AE5DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B31204-0B10-4EE9-9385-54AE93AE5DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250A8953-E95D-4CCA-92DC-F18B1F87E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250A8953-E95D-4CCA-92DC-F18B1F87E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250A8953-E95D-4CCA-92DC-F18B1F87E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250A8953-E95D-4CCA-92DC-F18B1F87E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.deps.json
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.runtimeconfig.json
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.runtimeconfig.dev.json
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.dll
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.pdb
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.csprojResolveAssemblyReference.cache
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.AssemblyInfo.cs
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.dll
+c:\users\bgiraldo\documents\visual studio 2017\Projects\Yuxi.Notifications.API\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.pdb
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.deps.json
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.runtimeconfig.json
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.runtimeconfig.dev.json
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.dll
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.API.pdb
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.csprojResolveAssemblyReference.cache
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.AssemblyInfo.cs
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.dll
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.pdb
