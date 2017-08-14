@@ -16,3 +16,5 @@ C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifica
 C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.AssemblyInfo.cs
 C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.dll
 C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\obj\Debug\netcoreapp1.1\Yuxi.Notifications.API.pdb
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Service.dll
+C:\Users\bgiraldo\Source\Repos\PushNotifications\PushNotifications\Yuxi.Notifications.API\bin\Debug\netcoreapp1.1\Yuxi.Notifications.Service.pdb
