@@ -3,7 +3,11 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Yuxi.Notifications.Service.Services;
+using Yuxi.Notifications.Infrastructure;
+using Microsoft.EntityFrameworkCore;
+using MediatR;
+using Yuxi.Notifications.Domain.AggregatesModel.UserAggregate;
+using Yuxi.Notifications.Infrastructure.Repositories;
 
 namespace Yuxi.Notifications.API
 {
@@ -27,8 +31,12 @@ namespace Yuxi.Notifications.API
             // Add framework services.
             services.AddMvc();
 
-            services.AddTransient<INotificationService, NotificationService>();
+            services.AddDbContext<NotificationContext>(options =>
+                   options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddMediatR();
+
+            services.AddTransient<IUserRegistryRepository, UserRegistryRepository>();
 
         }
 
